@@ -1,4 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=YJStory&fontSize=90)
+
+
+- 🌱 I’m currently learning Data Analysis
+
+- 🤔 I’m using <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> & <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>
+
+- ✨ I have a desire to learn, and I still have a lot to learn.
+
+
+
 
 <!--
 **hanyoujeong/hanyoujeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
