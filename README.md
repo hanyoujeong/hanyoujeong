@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=YJStory&fontSize=90)
+<!-- [header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=YJStory&fontSize=90) -->
 
 
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m learning Data Analysis
 
-- 🤔 I’m using <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> & <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>
+- I’m using <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> & <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>
 
-- ✨ I have a desire to learn, and I still have a lot to learn.
+
 
 
 
